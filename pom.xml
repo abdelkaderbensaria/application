@@ -154,13 +154,13 @@
   <build>
     <finalName>applicationPetstore</finalName>
     <plugins>
-      <plugin>
+      <!--<plugin>
         <artifactId>maven-war-plugin</artifactId>
         <version>${version.maven.war.plugin}</version>
         <configuration>
           <failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
-      </plugin>
+      </plugin>-->
     </plugins>
   </build>
 
